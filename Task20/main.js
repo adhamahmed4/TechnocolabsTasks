@@ -4,7 +4,8 @@ const clientSecret = '1HS1S44XR0AZYZ5B0350XCWGPI0OPJJ3V3OEOC4OWKGESORX';
 const url = 'https://www.absegy.com?near=';
 
 // OpenWeather Info
-const openWeatherKey = '34b986e84b5b514a73873a15d7d5ec73';
+//GitGuard removed it from the repo
+// const openWeatherKey = '34b986e84b5b514a73873a15d7d5ec73';
 const weatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 // Page Elements
